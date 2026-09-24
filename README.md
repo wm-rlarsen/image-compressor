@@ -1,10 +1,10 @@
 # Image Compressor
 
-A single-file browser tool for converting batches of images to smaller JPEGs. Open `Image Batch Converter.html` in Microsoft Edge or Google Chrome. No installation is required, and images are processed locally in your browser.
+A single-file browser tool for converting batches of images to smaller JPEGs. 
 
 ## Use
 
-Download image-compressor.html and run it in your browser.  This tool is a single file that requires no setup or installation.
+Download **image-compressor.html** and run it in your browser.  This tool is a single file that requires no setup or installation.
 
 1. Choose a folder or select multiple image files. Images inside subfolders are ignored.
 2. Choose a quality preset, or select **Advanced** to set JPEG quality and optionally try to meet a target file size.
