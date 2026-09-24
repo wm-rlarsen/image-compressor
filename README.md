@@ -4,6 +4,8 @@ A single-file browser tool for converting batches of images to smaller JPEGs. Op
 
 ## Use
 
+Download image-compressor.html and run it in your browser.  This tool is a single file that requires no setup or installation.
+
 1. Choose a folder or select multiple image files. Images inside subfolders are ignored.
 2. Choose a quality preset, or select **Advanced** to set JPEG quality and optionally try to meet a target file size.
 3. Keep the original dimensions, set maximum dimensions, or scale images to a percentage of their original size. Choose a background color for transparent images.
